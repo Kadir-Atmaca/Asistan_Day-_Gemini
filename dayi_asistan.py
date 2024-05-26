@@ -124,7 +124,7 @@ print (
 
 
 os.system('color a')
-sec=int(input("Kisilik seç (0/1/2/3): "))
+sec=int(input("Kisilik seç (0/1): "))
 kisilik=sec
 
 
